@@ -38,7 +38,6 @@ return 0;
 }
 
 // Jika tidak memenuhi syarat, tampilkan pesan tidak mencurigakan
-
 else
     cout << nama << " tidak mencurigakan." << endl;
 
